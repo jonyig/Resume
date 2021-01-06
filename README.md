@@ -33,7 +33,7 @@
 * 編寫 Docker-compose 確保團隊開發環境一致
 * Nginx 調整觀察 Log 除錯
 * 操作 AWS、GCP
-
+* Mac OSX
 
 <hr>
 
