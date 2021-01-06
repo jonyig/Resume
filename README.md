@@ -20,8 +20,8 @@
 
 
 ### PHP/MySqL
-* 規劃程式架構，邏輯與資料庫溝通分開
-* 堅守S.O.L.I.D 完成後端開發
+* 規劃程式架構，善用Di，並將邏輯與資料庫溝通分開
+* 堅守 S.O.L.I.D 完成後端開發
 * Framework 使用 Laravel
 * 善用 Satis 將其他邏輯分開
 * 撰寫 Unit Test 確保 Api 正確性
@@ -39,7 +39,7 @@
 
 ###工作經歷
 - 工作期間： 2020/05 - 2020/12 | @GSM <br>
-    職位: 全端工程師 工程師 <br>
+    職位: 全端工程師 <br>
     * 使用 Fly System 維護後端 REST-ful API
     * 利用 VueJS + ElementUI + Laravel 開發包網平台
     * 規劃架構 API Test Case
