@@ -1,3 +1,6 @@
+### 中文介绍
+请查看 [README.md](https://github.com/jonyig/Resume/blob/main/README.md)
+
 # Jonny Kuo
 
 - Birthday: 1994/12/26
