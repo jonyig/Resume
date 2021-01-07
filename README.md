@@ -49,8 +49,10 @@ Please view [README-EN.md](https://github.com/jonyig/Resume/blob/main/README-EN.
 ## 工作經歷
 - 工作期間： 2020/05 - 2020/12 | @GSM <br>
     職位: 全端工程師 <br>
-    * 使用 Fly System 維護後端 REST-ful API
-    * 利用 VueJS + ElementUI + Laravel 開發包網平台
+    * 使用 Laravel Framework 開發後端 RESTful API 與 CRM 管理頁面
+    * 使用 Fly System 開發遊戲串接模組
+    * 利用 VueJS + ElementUI 開發包網平台
+    * 建立團隊組織內的工作流
     * 規劃架構 API Test Case
 
 - 工作期間： 2018/04 - 2019/09 | @Shop123 <br>

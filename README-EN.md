@@ -49,8 +49,10 @@
 ## Experience
 - During： 2020/05 - 2020/12 | @GSM <br>
     Position: full-stack develop <br>
-    * Maintain REST-ful API by Fly-system
-    * User VueJS + ElementUI + Laravel to develop the website
+    * Use Laravel to develop RESTful-api and CRM system
+    * Develop game module by Fly-system
+    * User VueJS to develop the website
+    * Publish work flow 
     * Plan API Test Case
 
 - During： 2018/04 - 2019/09 | @Shop123 <br>
