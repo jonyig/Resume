@@ -77,13 +77,11 @@ Please view [README-EN.md](https://github.com/jonyig/Resume/blob/main/README-EN.
     ⌞ 使用 ReactJS 開發 。<BR>
     ⌞ 串接天氣預報 Api 。<BR>
     
- #### 公司專案
- - 後台系統
- 
+ #### GSM後台管理系統
    <img src="agent.jpeg" width="500" height="230"><BR>
    
-    ⌞ 使用 VueJS + ElementUI 開發 。<BR>
-    ⌞ 使用 使用內部 I18N + Vuex 快速切換語言 。<BR>
-    ⌞ 使用 Tailwind 輔助 ElementUI 。<BR>
+   ⌞ 使用 VueJS + ElementUI 開發 。<BR>
+   ⌞ 使用 使用內部 I18N + Vuex 快速切換語言 。<BR>
+   ⌞ 使用 Tailwind 輔助 ElementUI 。<BR>
  
  

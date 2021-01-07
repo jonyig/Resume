@@ -77,13 +77,11 @@
     ⌞ Use ReactJS。<BR>
     ⌞ Get weather data by Api in Taiwan。<BR>
     
- #### Company
- - CMS System
+ #### GSM CRM System
+ <img src="agent.jpeg" width="500" height="230"><BR>
  
-   <img src="agent.jpeg" width="500" height="230"><BR>
-   
-    ⌞ Use VueJS + ElementUI。<BR>
-    ⌞ Change language by I18N + Vuex 。<BR>
-    ⌞ Use Tailwind assisting ElementUI 。<BR>
+   ⌞ Use VueJS + ElementUI。<BR>
+   ⌞ Change language by I18N + Vuex 。<BR>
+   ⌞ Use Tailwind assisting ElementUI 。<BR>
  
  
