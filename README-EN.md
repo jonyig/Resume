@@ -50,7 +50,7 @@
 - During： 2020/05 - 2020/12 | @GSM <br>
     Position: full-stack develop <br>
     * Use Laravel to develop RESTful-api and CRM system
-    * Develop game module by Fly-system
+    * Develop game module
     * User VueJS to develop the website
     * Publish work flow 
     * Plan API Test Case
