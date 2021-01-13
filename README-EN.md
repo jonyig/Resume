@@ -8,7 +8,7 @@
 - Location: Taiwan, Taipei
 - E-mail: ji394su311203106@gmail.com
 - Mobile: 0975-965-966
-- tech note : https://blog.jonny.website
+- tech note : https://jonyig.github.io/hugo-blog/
 <hr>
 
 ## Profile

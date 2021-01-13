@@ -8,7 +8,7 @@ Please view [README-EN.md](https://github.com/jonyig/Resume/blob/main/README-EN.
 - Location: New Taipei City
 - E-mail: ji394su311203106@gmail.com
 - Mobile: 0975-965-966
-- 線上技術及心得筆記本 : https://blog.jonny.website
+- 線上技術及心得筆記本 : https://jonyig.github.io/hugo-blog/
 <hr>
 
 ## 自我介紹
