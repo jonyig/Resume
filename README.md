@@ -65,7 +65,7 @@ Please view [README-EN.md](https://github.com/jonyig/Resume/blob/main/README-EN.
 
 ### 作品
  #### 新冠病毒每日確診追蹤與相關新聞整理 
- - https://covid19tw.tk/
+ - https://covid.jonny.website/
  
    ⌞ 使用 NextJS 開發 。<BR>
    ⌞ 串接國外整理病毒 Api 。<BR>

@@ -65,7 +65,7 @@
 
 ### Works
  #### Covid-19 Global Dashboard
- - https://covid19tw.tk/
+ - https://covid.jonny.website/
  
    ⌞ Use NextJS。<BR>
    ⌞ Get Number of confirmed cases by api。<BR>
