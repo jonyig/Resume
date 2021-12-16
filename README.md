@@ -41,6 +41,7 @@ Please view [README-EN.md](https://github.com/jonyig/Resume/blob/main/README-EN.
     * Retention Engine 後端開發維護，API 使用 PHP，daemon worker 使用 Golang 
     * Golang 專案中導入測試，提升程式穩定性
     * 調整 multiple thread 的 deadlock ，改善效能瓶頸
+    
 - 工作期間： 2020/05 - 2020/12 | @GSM <br>
     職位: 後端工程師 <br>
     * 使用 Laravel Framework 開發後端 RESTful API 與 CRM 管理頁面
