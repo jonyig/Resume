@@ -17,7 +17,7 @@
     * Retention Engine 後端開發維護，API 使用 PHP，daemon worker 使用 Golang
     * 調整 multiple thread 的 deadlock ，改善效能低落情形
     * 實作 GraphQL 串接 GA4
-    * 優化內部 db migration 機制與流程  
+    * 優化內部 Database migration 機制與流程  
     * 流式下載處理大型檔案下載
     * Golang 專案中撰寫測試，提升程式穩定性
     * 整理專案內部文件
