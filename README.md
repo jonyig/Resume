@@ -4,11 +4,6 @@
 - E-mail: ji394su311203106@gmail.com
 <hr>
 
-## 自我介紹
-  - 生活與工作需要為天秤的兩邊。
-  - 夢想著可以利用設計出來的軟體改變人們的生活，讓世界更好一點點。
-   
-
 ## 技能
 - PHP、Golang、MySQL、MongoDB
 - 使用 Redis Cache 降低資料庫承受壓力
