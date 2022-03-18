@@ -1,6 +1,3 @@
-### English introduction
-Please view [README-EN.md](https://github.com/jonyig/Resume/blob/main/README-EN.md)
-
 # 郭仲益 (Jonny Kuo)
 
 - Location: New Taipei City
