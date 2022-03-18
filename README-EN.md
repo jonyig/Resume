@@ -1,5 +1,5 @@
 ### 中文介绍
-请查看 [README.md](https://github.com/jonyig/Resume/blob/main/README.md)
+請查看 [README.md](https://github.com/jonyig/Resume/blob/main/README.md)
 
 # Jonny Kuo
 
@@ -9,11 +9,10 @@
 
 ## Profile
   - Life and work need to be on both sides of Libra。
-  - I love camping and going mountain when I get the bug。
   - Dream to make good life for worldwide by my skill on software development。
 
 
-## 技能
+## Skill
 
 ### Language
 - PHP
@@ -56,26 +55,3 @@
     * Use Taiwan E-invoice to create new business
     * User Docker-compose for dev environment
 <hr>
-
-### Works
- #### Covid-19 Global Dashboard
- - https://covid.jonny.website/
- 
-   ⌞ Use NextJS。<BR>
-   ⌞ Get Number of confirmed cases by api。<BR>
-   ⌞ Get covid-19 news by Api。<BR>
-
- #### Weather  
- - https://jonyig.github.io/realtime-weather-app/
- 
-    ⌞ Use ReactJS。<BR>
-    ⌞ Get weather data by Api in Taiwan。<BR>
-    
- #### GSM CRM System
- <img src="agent.jpeg" width="500" height="230"><BR>
- 
-   ⌞ Use VueJS + ElementUI。<BR>
-   ⌞ Change language by I18N + Vuex 。<BR>
-   ⌞ Use Tailwind assisting ElementUI 。<BR>
- 
- 
