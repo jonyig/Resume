@@ -11,7 +11,6 @@
 
 ## 技能
 - PHP、Golang、MySQL、MongoDB
-- 了解資料庫 lock 機制，開發時避免觸發死鎖、調整死鎖提升程式效率
 - 使用 Redis Cache 降低資料庫承受壓力
 - 使用 Message Queue 分散流程結構，降低軟體耦合度
 
@@ -20,18 +19,17 @@
 ## 工作經歷
 - 工作期間： 2021/02 - 至今 | @阿物科技股份有限公司 <br>
   職位: 後端工程師 <br>
-    * Retention Engine 後端開發維護，API 使用 PHP，daemon worker 使用 Golang 
-    * Golang 專案中撰寫測試，提升程式穩定性
+    * Retention Engine 後端開發維護，API 使用 PHP，daemon worker 使用 Golang
     * 調整 multiple thread 的 deadlock ，改善效能低落情形
-    * 實作 GraphQL 串接 GA4 ，完成 awoo Dashboard
+    * 實作 GraphQL 串接 GA4
+    * 優化內部 db migration 機制與流程  
     * 流式下載處理大型檔案下載
-    * 導入 migration 機制，紀錄資料庫更新
+    * Golang 專案中撰寫測試，提升程式穩定性
     * 整理專案內部文件
         * 功能流程圖
         * cache 功能、失效時間
         * queue 功能、相關專案
-        * task job 功能撰寫  
-        * 日常維護教學
+        * task job 功能撰寫
     
 - 工作期間： 2020/05 - 2020/12 | @GSM <br>
     職位: 後端工程師 <br>
