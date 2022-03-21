@@ -5,9 +5,23 @@
 <hr>
 
 ## 技能
-- PHP、Golang、MySQL、MongoDB
-- 使用 Redis Cache 降低資料庫承受壓力
-- 使用 Message Queue 分散流程結構，降低軟體耦合度
+### Language
+- PHP
+- Golang
+
+### Database
+- MySQL
+- MongoDB
+
+### Cache
+- Redis
+
+### Message Queue
+- RabbitQM
+
+### Other
+- Docker
+- Git
 
 <hr>
 
